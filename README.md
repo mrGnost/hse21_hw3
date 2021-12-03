@@ -17,7 +17,7 @@
 
 ## Часть с R
 Колаб: [ссылка](https://colab.research.google.com/drive/1qGPf2eL0-NnWyhvZYryri_GeUkfvn4qb?usp=sharing)
-----------
+
 ![image](https://user-images.githubusercontent.com/61655850/144662963-1a95bde9-06ff-4251-81e0-ff9af8e6a867.png)
 ![image](https://user-images.githubusercontent.com/61655850/144662946-717fa433-81bd-4f45-a173-ca7fe9b2b50b.png)
 ### Три самых важных гена
